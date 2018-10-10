@@ -1,5 +1,5 @@
 {
-  "name": "marker-clusterer-ssr",
+  "name": "@beyonk/marker-clusterer-ssr",
   "version": "1.0.0",
   "description": "An SSR compatible implementation of marker-clusterer",
   "main": "index.js",
