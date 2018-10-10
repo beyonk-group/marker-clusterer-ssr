@@ -1165,4 +1165,4 @@ class ClusterIcon {
   }
 }
 
-export default MarkerClusterer
+module.exports = MarkerClusterer
