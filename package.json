@@ -1,0 +1,26 @@
+{
+  "name": "marker-clusterer-ssr",
+  "version": "1.0.0",
+  "description": "An SSR compatible implementation of marker-clusterer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google-maps",
+    "gmaps",
+    "maps",
+    "google",
+    "marker-clusterer"
+  ],
+  "author": "Antony Jones",
+  "license": "MIT",
+  "standard": {
+    "globals": [
+      "google"
+    ]
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
