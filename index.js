@@ -1165,4 +1165,12 @@ class ClusterIcon {
   }
 }
 
-module.exports = MarkerClusterer
+(function () {
+  const root = this
+
+  if (typeof module !== 'undefined' && module.exports) {
+    module.exports = MarkerClusterer
+  }
+
+  root.MarkerClusterer = MarkerClusterer
+})()
