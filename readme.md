@@ -4,7 +4,7 @@
 
 ## Marker Clusterer SSR
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com) [![CircleCI](https://circleci.com/gh/beyonk-adventures/marker-clusterer-ssr.svg?style=shield)](https://circleci.com/gh/beyonk-adventures/marker-clusterer-ssr) [![ssr-ready](https://img.shields.io/badge/ssr-ready-orange.svg)]
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com) [![CircleCI](https://circleci.com/gh/beyonk-adventures/marker-clusterer-ssr.svg?style=shield)](https://circleci.com/gh/beyonk-adventures/marker-clusterer-ssr) ![ssr-ready](https://img.shields.io/badge/ssr-ready-orange.svg)
 
 ### What is it?
 
